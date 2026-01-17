@@ -1,0 +1,53 @@
+# Billie Eilish – Billie Bossa Nova
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:07.80] Mm-mm-mm-mm-mm
+[00:11.57] Na-na-na
+[00:15.57] 
+[00:15.53] Love when it comes without a warning
+[00:19.90] 'Cause waiting for it gets so boring
+[00:24.37] A lot can change in twenty seconds
+[00:28.65] A lot can happen in the dark
+[00:33.02] Love when it makes you lose your bearings
+[00:37.31] Some information's not for sharing
+[00:41.75] Use different names at hotel check-ins
+[00:46.21] It's hard to stop it once it starts (it starts)
+[01:09.71] 
+[00:52.37] I'm not sentimental
+[00:54.21] But there's somethin' 'bout the way you look tonight, mmh
+[01:00.66] Makes me wanna take a picture
+[01:02.88] Make a movie with you that we'd have to hide
+[01:24.88] 
+[01:08.29] You better lock your phone (oh)
+[01:12.08] And look at me when you're alone
+[01:16.30] Won't take a lot to get you going (oh)
+[01:20.53] I'm sorry if it's torture though, I know, I know
+[01:44.53] 
+[01:25.71] It might be more of an obsession
+[01:29.81] You really make a strong impression (yes, you do)
+[01:34.28] Nobody saw me in the lobby (saw me in the lobby)
+[01:38.50] Nobody saw me in your arms, mmh-mmh
+[01:56.00] 
+[01:44.85] I'm not sentimental
+[01:46.55] But there's somethin' 'bout the way you look tonight
+[01:49.15] ('Bout the way you look tonight), mmh
+[01:53.05] Makes me wanna make 'em jealous
+[01:55.48] I'm the only one who does it how you like (only one who does it how you)
+[02:31.48] 
+[02:00.62] You better lock your phone
+[02:04.22] And look at me when you're alone (you're alone, you're alone)
+[02:08.63] Won't take a lot to get you going (get you going, get you going)
+[02:13.08] I'm sorry if it's torture though (torture though), I know, I know
+[02:45.58] 
+[02:17.93] You better lock your door
+[02:21.61] And look at me a little more
+[02:26.02] We both know I'm worth waiting for (waiting for)
+[02:30.53] That heavy breathing on the floor (on the floor)
+[02:33.89] I'm yours, I'm yours (I'm yours)
+[02:49.89] 
+[02:54.67] I'm not sentimental
+[02:59.15] I'm not sentimental
+[03:03.39] I'm not sentimental
+```
